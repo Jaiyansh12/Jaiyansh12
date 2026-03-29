@@ -10,9 +10,10 @@
 🚀 Exploring:
 - Networking Basics  
 - Linux (Kali Linux)  
-- Digital Forensics Tools  
-📫 Reach me: linkedin.com/in/jaiyansh-dhaulakhandi-0ba80b37a
+- Digital Forensics Tools
 
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/jaiyansh-dhaulakhandi-0ba80b37a
 <!--
 **Jaiyansh12/Jaiyansh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
