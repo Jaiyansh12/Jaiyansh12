@@ -5,7 +5,7 @@
 📅 1st Year  
 
 💻 Currently learning Cybersecurity and Digital Forensics  
-🎯 Goal: To work in Cyber Crime Investigation and protecting organisations from cyber threats  
+🎯 Goal: To work in Cyber Crime Investigation and to protect organisations from cyber threats  
 
 🚀 Exploring:
 - Networking Basics  
