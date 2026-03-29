@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jaiyansh 👋
+
+🎓 BTech CSE (Cyber Security & Digital Forensics)  
+🏫 VIT Bhopal University  
+📅 1st Year  
+
+💻 Currently learning Cybersecurity and Digital Forensics  
+🎯 Goal: To work in Cyber Crime Investigation and protecting organisations from cyber threats  
+
+🚀 Exploring:
+- Networking Basics  
+- Linux (Kali Linux)  
+- Digital Forensics Tools  
 
 <!--
 **Jaiyansh12/Jaiyansh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
