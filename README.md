@@ -1,8 +1,6 @@
-# Hi, I'm Jaiyansh 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jaiyansh Dhaulakhandi</h1>
 
-🎓 BTech CSE (Cyber Security & Digital Forensics)  
-🏫 VIT Bhopal University  
-📅 1st Year  
+<br>🎓 BTech CSE (Cyber Security & Digital Forensics)<br>🏫 Vellore Institute of Technology, Bhopal
 
 💻 Currently learning Cybersecurity and Digital Forensics  
 🎯 Goal: To work in Cyber Crime Investigation and to protect organisations from cyber threats  
@@ -12,44 +10,44 @@
 - Linux (Kali Linux)  
 - Digital Forensics Tools
 
-## 🧠 My Focus Areas
+🧠 My Focus Areas
 - Digital Forensics
 - Cybersecurity Fundamentals
-- Linux And Open Source Tools
+- Linux And Open Source Tools<br><br>
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
+## 📊 GitHub Stats
+<br><p align="center">
   <img src="https://streak-stats.demolab.com/?user=Jaiyansh12&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Jaiyansh12's GitHub Streak" width="49%" />
-</p>
-
+</p><br>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/jaiyansh-4n6/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:jaiyanshdhaulakhandi@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<br><p align="center">
+  <a href="https://www.linkedin.com/in/jaiyansh-4n6/" >
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jaiyanshdhaulakhandi@gmail.com" >
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jay.4n6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="40"/>
+  </a>
+</p><br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture><br><br>
+
+
+<p align="center">
+<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="50%" />
+</p><br>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
-****
-<!--
-
-**Jaiyansh12/Jaiyansh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
