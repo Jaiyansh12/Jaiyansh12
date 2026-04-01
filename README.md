@@ -13,7 +13,7 @@
 - Digital Forensics Tools
 
 ## 🔗 Connect with me
-- LinkedIn: https://www.linkedin.com/in/jaiyansh-dhaulakhandi-0ba80b37a
+- LinkedIn: https://www.linkedin.com/in/jaiyansh-4n6
 <!--
 **Jaiyansh12/Jaiyansh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
