@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<img src="image/number_ball.gif" alt="Banner" width="50%" />
+<img src="image/number_ball.gif" alt="Banner" width="40%" />
 </p><br>
 
 
