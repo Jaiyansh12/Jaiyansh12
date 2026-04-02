@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="50%" />
+<img src="image/number_ball.gif" alt="Banner" width="50%" />
 </p><br>
 
 
