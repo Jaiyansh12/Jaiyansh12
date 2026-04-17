@@ -6,7 +6,7 @@
 🎯 Goal: To work in Cyber Crime Investigation and to protect organisations from cyber threats  
 
 🚀 Exploring:
-- Networking Basics  
+- Networking   
 - Linux (Kali Linux)  
 - Digital Forensics Tools
 - Programming
