@@ -9,6 +9,7 @@
 - Networking Basics  
 - Linux (Kali Linux)  
 - Digital Forensics Tools
+- Programming
 
 🧠 My Focus Areas
 - Digital Forensics
