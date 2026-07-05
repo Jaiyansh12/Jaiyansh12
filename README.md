@@ -4,21 +4,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=290&lines=Cyber+Security+Student" />
 </p>
 
-🎓 BTech CSE (Cyber Security & Digital Forensics)
-<br>🏫 Vellore Institute of Technology, Bhopal
+ 🎓 BTech CSE (Cyber Security & Digital Forensics)
+<br> 🏫 Vellore Institute of Technology, Bhopal
 
-🚀 Exploring:
+#### 🚀 Currently Learning:
 - Networking   
 - Linux (Kali Linux)  
 - Digital Forensics Tools
-- Programming
+- Programming Fundamentals
 
-🧠 My Focus Areas
-- Cybersecurity Fundamentals
+#### 🧠 Technical Interests
+- Cybersecurity 
 - Digital Forensics
-- Linux And Open Source Tools
+- Linux & Open Source Tools
 
 ## 🗽 GitHub Stats
+
+> 💡 Click the graph to explore the interactive contribution scanner.
 
 <p align="center">
   <a href="https://Jaiyansh-4n6-GitHubScanner.vercel.app">
@@ -28,7 +30,8 @@
   </a>
 </p>
 
-> 💡 Click the graph to explore the interactive contribution scanner.
+> Every green square is just a pixel. The story behind it isn't. 💚
+
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -48,6 +51,7 @@
 <p align="center">
 <img src="assets/number_ball.gif" alt="Banner" width="40%" />
 </p><br>
+
 
 <div align="center">
   <img src="assets/bottom-line.gif" alt="Bottom Line" width="100%" />
